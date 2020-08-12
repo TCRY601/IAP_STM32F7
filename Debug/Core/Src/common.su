@@ -1,0 +1,4 @@
+common.c:70:6:Int2Str	32	static
+common.c:98:10:Str2Int	32	static
+common.c:172:6:Serial_PutString	24	static
+common.c:189:19:Serial_PutByte	16	static

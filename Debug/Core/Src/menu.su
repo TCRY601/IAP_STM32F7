@@ -1,0 +1,5 @@
+core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+menu.c:89:6:SerialDownload	24	static
+menu.c:135:6:SerialUpload	16	static
+menu.c:165:6:Main_Menu	16	static,ignoring_inline_asm
+menu.c:197:6:Delete	16	static,ignoring_inline_asm

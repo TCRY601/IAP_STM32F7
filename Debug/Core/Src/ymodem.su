@@ -1,0 +1,9 @@
+core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+ymodem.c:89:26:ReceivePacket	40	static
+ymodem.c:172:13:PrepareIntialPacket	48	static
+ymodem.c:213:13:PreparePacket	40	static
+ymodem.c:253:10:UpdateCRC16	24	static
+ymodem.c:279:10:Cal_CRC16	24	static
+ymodem.c:299:9:CalcChecksum	24	static
+ymodem.c:318:19:Ymodem_Receive	80	static
+ymodem.c:469:19:Ymodem_Transmit	72	static
